@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.mrnight.tk/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mr Night - Blog"
+
+enableRobotsTXT = true
+
+# Theme config
+paginate = 5
+theme = "terminal"
+
+[params]
+  themeColor = "blue"
+
+  fullWidthTheme = false
+  centerTheme = true
+
+  favicon = "favicon.ico"
+
+[params.twitter]
+  creator = "0xMrNight"
+  site = "0xMrNight"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "0xMrNight"
+    subtitle = "Full stack Web Dev | Cyber Sec researcher"
+    owner = "Siddharth Arumugam"
+    copyright = "© 2021 Siddharth Arumugam"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Mr Night"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"

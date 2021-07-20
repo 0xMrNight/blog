@@ -3,8 +3,8 @@ title: "Hack Armour CTF Writeups: Backdoor"
 date: "2021-06-28 11:00:00+05:30"
 description: "This post is a writeup of the `Backdoor` challenge of the HackArmour June '21 CTF."
 
-# author: "Siddharth Arumugam"
-# authorTwitter: "0xMrNight"
+author: "Siddharth Arumugam"
+authorTwitter: "0xMrNight"
 
 tags: ["hackarmour-ctf", "exploits", "php"]
 keywords: ["hackarmour", "php-exploit"]

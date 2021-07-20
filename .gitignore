@@ -1,0 +1,6 @@
+# Local Netlify folder
+.netlify
+
+# Generated files by hugo
+/public/
+/resources/_gen/

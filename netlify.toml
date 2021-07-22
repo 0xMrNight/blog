@@ -1,0 +1,6 @@
+[context.production.environment]
+  HUGO_VERSION = "0.85.0"
+
+[build]
+  publish = "public"
+  command = "hugo --gc --minify -b https://blog.mrnight.tk/"

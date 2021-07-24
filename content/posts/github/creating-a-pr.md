@@ -96,3 +96,5 @@ Submit the pull request.
 ### External Links
 
 [GitHub Docs on this topic](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+[MakeAPullRequest.com](https://makeapullrequest.com)

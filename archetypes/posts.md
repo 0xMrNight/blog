@@ -1,14 +1,14 @@
 ---
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = "{{ .Date }}"
-description = ""
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: "{{ .Date }}"
+description: ""
 
-author = "{{ .Site.Data.author.name }}"
-authorTwitter = "{{ .Site.Data.author.twitter }}" 
+author: "{{ .Site.Data.author.name }}"
+authorTwitter: "{{ .Site.Data.author.twitter }}" 
 
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
+cover: ""
+tags: ["", ""]
+keywords: ["", ""]
 
-showFullContent = false
+showFullContent: false
 ---

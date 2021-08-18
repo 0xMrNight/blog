@@ -3,4 +3,4 @@
 
 [build]
   publish = "public"
-  command = "hugo --gc --minify -b https://blog.mrnight.tk/"
+  command = "hugo --gc --minify"

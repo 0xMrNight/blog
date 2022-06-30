@@ -1,6 +1,6 @@
 baseURL = "https://blog.mrnight.me/"
 languageCode = "en-us"
-title = "Mr Night - Blog"
+title = "Siddharth Arumugam - Blog"
 
 enableRobotsTXT = true
 
@@ -9,7 +9,7 @@ paginate = 5
 theme = "terminal"
 
 [params]
-  themeColor = "blue"
+  themeColor = "red"
 
   fullWidthTheme = false
   centerTheme = true
@@ -23,8 +23,8 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "0xMrNight"
-    subtitle = "Full stack Web Dev | Cyber Sec researcher"
+    title = "Siddharth Arumugam"
+    subtitle = ""
     owner = "Siddharth Arumugam"
     copyright = "© 2021 Siddharth Arumugam"
     menuMore = "Show more"

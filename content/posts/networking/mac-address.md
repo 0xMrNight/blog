@@ -4,12 +4,7 @@ description: "Media Access Control addresses and its types"
 date: "2022-07-16 11:30:00 +05:30"
 
 author: "Siddharth Arumugam"
-authorTwitter: "0xMrNight"
-
 tags: ["computer-networking", "mac-address"]
-keywords: ["mac-address", "network", "network-interface"]
-
-showFullContent: false
 ---
 
 ## What is a MAC Address?

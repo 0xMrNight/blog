@@ -4,12 +4,7 @@ description: "A basic overview of the Internet Protocol, IP addresses and its ty
 date: "2022-06-30 20:00:00 +05:30"
 
 author: "Siddharth Arumugam"
-authorTwitter: "0xMrNight"
-
 tags: ["computer-networking", "ip"]
-keywords: ["ip", "ip-address", "network"]
-
-showFullContent: false
 ---
 
 ## Internet Protocol

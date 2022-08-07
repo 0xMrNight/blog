@@ -56,7 +56,7 @@ A shared IP address is used by multiple domains or websites.
 
 #### Dedicated IP
 
-A dedicated IP address is an address alloted exclusively to one website.
+A dedicated IP address is an address allotted exclusively to one website.
 
 #### Loopback IP
 

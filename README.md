@@ -1,6 +1,6 @@
 ## Blog
 
-My [blog](https://blog.mrnight.me/)
+My blog
 
 Powered by [Hugo](https://gohugo.io/).
 

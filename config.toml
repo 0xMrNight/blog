@@ -1,4 +1,4 @@
-baseURL = "https://blog.mrnight.me/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Siddharth Arumugam - Blog"
 
@@ -9,10 +9,17 @@ paginate = 5
 theme = "terminal"
 
 [params]
-  themeColor = "red"
+  contentTypeName = "posts"
+
+  themeColor = "blue"
 
   fullWidthTheme = false
   centerTheme = true
+
+  autoCover = false
+  showLastUpdated = false
+  readingTime = false
+  Toc = false
 
   favicon = "favicon.ico"
 
@@ -22,18 +29,18 @@ theme = "terminal"
 
 [languages]
   [languages.en]
-    languageName = "English"
-    title = "Siddharth Arumugam"
-    subtitle = ""
-    owner = "Siddharth Arumugam"
-    copyright = "© 2022 Siddharth Arumugam"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    [languages.en.params]
+      languageName = "English"
+      title = "Siddharth Arumugam"
+      subtitle = ""
+      owner = "Siddharth Arumugam"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
       logoText = "Mr Night"

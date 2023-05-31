@@ -22,6 +22,8 @@ theme = "terminal"
   Toc = false
 
   favicon = "favicon.ico"
+  # Cover image for home page
+  homeCover = "https://cdn.jsdelivr.net/gh/0xMrNight/blog-images@master/commons/blog-cover.jpg"
 
 [params.twitter]
   creator = "0xMrNight"
